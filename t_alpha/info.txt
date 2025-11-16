@@ -1,0 +1,5 @@
+4th test in the series.
+1st proper test encompassing all the aspects including test rigs,data processing etc.
+todo-ignitor prep
+     mosfet integration instead of relay
+
